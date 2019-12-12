@@ -5,5 +5,10 @@
 /.vs
 /.idea
 /lib
+/java/.settings
+/java/.project
 /java/libthither/target
 /java/libthither/.idea
+/java/libthither/.project
+/java/libthither/.classpath
+/java/libthither/.settings
